@@ -1,4 +1,4 @@
 # EA
-## Node.js and Express
-### Seminar
+## Seminar
+### Node.js and Express
 	Tracks
